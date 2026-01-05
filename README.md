@@ -1,6 +1,6 @@
-# Medical-Image-Generator
+# MediSynVision
 
-**Medical-Image-Generator** is a state-of-the-art synthetic medical imaging platform designed to generate high-fidelity histopathology samples using advanced diffusion models.
+**MediSynVision** is a state-of-the-art synthetic medical imaging platform designed to generate high-fidelity histopathology samples using advanced diffusion models.
 
 ![Platform Preview](web/public/preview.png)
 
